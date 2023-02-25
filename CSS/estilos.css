@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color:antiquewhite;
+    align-items: center;
+    padding: 30px;
+}
+.logo{
+    display: flex;
+    align-items: center;
+}
+.logo img{
+    height: 100px;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav a{
+    padding-right: 15px;
+}
+.inicio{
+    font-size: 70px;
+    font-weight: bold;
+    padding-left: 220px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bienvenida {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 225px;
+    padding-right: 225px;
+    padding-bottom: 50px;
+}
+.proposito {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+    padding-left: 225px;
+    padding-right: 225px;
+    padding-top: 50px;
+}
+table p{
+    font-weight: bold;
+    text-align: 220px;
+}
+.info p{
+    padding-left: 350px;
+    padding-right: 100px;
+}
+.unach p{
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.inicio2{
+    padding-left:155px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.evo{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-left: 500px;
+    padding-right: 50px;
+}
+.historia{
+    padding-left: 500px;
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.orde{
+    padding-left: 500px;
+}
